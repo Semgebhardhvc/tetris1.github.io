@@ -16,3 +16,5 @@ Je krijgt blokjes in alle verschillende vormen. Je moet ze op elkaar stapelen. A
 
 
 ## De link om het spel te spelen: https://semgebhardhvc.github.io/tetris1.github.io/
+
+## Presentatie uitleg: https://www.youtube.com/watch?v=KrgVtilSwHw
