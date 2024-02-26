@@ -13,3 +13,6 @@ Je krijgt blokjes in alle verschillende vormen. Je moet ze op elkaar stapelen. A
 -**pijltje naar links**: Het naar links bewegen van het blokje
 
 -**pijltje naar rechts**: Het naar rechts wegen van het blokje
+
+
+## De link om het spel te spelen: https://semgebhardhvc.github.io/tetris1.github.io/
