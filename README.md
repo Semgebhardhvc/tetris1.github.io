@@ -10,6 +10,6 @@ Je krijgt blokjes in alle verschillende vormen. Je moet ze op elkaar stapelen. A
 
 -**pijltje omlaag**: Het sneller naar beneden laten gaan van het blokje
 
--**pijltje naar links**: Het naar links bewegen van het knopje
+-**pijltje naar links**: Het naar links bewegen van het blokje
 
 -**pijltje naar rechts**: Het naar rechts wegen van het blokje
